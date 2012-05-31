@@ -30,6 +30,8 @@ AUTHOR
 -------
 Javier Rayon
 
+twitter: @jrayon
+
 Contact: javier at criteriastudio dot com
 
 GitHub Repo: https://github.com/jaraen
