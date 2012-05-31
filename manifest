@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2012 by Your Company
+
+
+# these should not be edited
+name: tilogtimestamp
+moduleid: Ti.LogTimeStamp
+guid: fe22f991-3188-477b-a51a-9694c1fb4880
+platform: iphone
+minsdk: 2.0.1.GA2
