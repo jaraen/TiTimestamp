@@ -3,7 +3,7 @@ Ti.LogTimestamp
 
 This is a Titanium mobile module for iOS that helps reading and measuring performance and execution times.
 
-Provides two methods for your experimentation. In both cases, time stamp is returned/printed as a double type representing number of seconds with six decimal (0.000000), aka nanoseconds (10^-6), since 00:00:00 1 January 2001.
+Provides two methods for your experimentation. In both cases, time stamp is returned/printed as a double type representing number of seconds with six decimal (0.000000), aka microseconds (10^-6), since 00:00:00 1 January 2001.
 
 ::
 	-(void)logTimeStamp
